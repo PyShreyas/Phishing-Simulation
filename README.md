@@ -17,6 +17,6 @@ Total Employees Simulated: **55**
 
 ## 📁 Project File Structure
 📦 Phishing-Simulation/
+├── README.md → Project overview and instructions
 ├── index.html → Login page designed to mimic a secure company portal
-├── youvebeenphished.html → Fake malicious landing page (used to simulate a successful phishing attack)
-└── README.md → Project overview and instructions
+└── youvebeenphished.html → Fake malicious landing page (used to simulate a successful phishing attack)
